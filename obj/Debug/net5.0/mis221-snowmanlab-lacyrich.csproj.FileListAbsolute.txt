@@ -1,0 +1,16 @@
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.csproj.AssemblyReference.cache
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.AssemblyInfoInputs.cache
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.AssemblyInfo.cs
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.csproj.CoreCompileInputs.cache
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.exe
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.deps.json
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.runtimeconfig.json
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.runtimeconfig.dev.json
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.dll
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\ref\mis221-snowmanlab-lacyrich.dll
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\bin\Debug\net5.0\mis221-snowmanlab-lacyrich.pdb
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.dll
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\ref\mis221-snowmanlab-lacyrich.dll
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.pdb
+C:\Users\lacyr\source\repos\mis221-snowmanlab-lacyrich\obj\Debug\net5.0\mis221-snowmanlab-lacyrich.genruntimeconfig.cache
